@@ -1,4 +1,6 @@
 from random import *
+# You can better understand what's going on here accessing:
+# https://www.geeksforgeeks.org/heap-sort/
 
 
 # Method called to maintain the heap structure on the tree/array
