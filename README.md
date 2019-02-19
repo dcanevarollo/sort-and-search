@@ -1,4 +1,4 @@
-# Sort algorithms
+# Sorting algorithms
 
 This repository contains, as its name inplies, sorting algorithms.
 
