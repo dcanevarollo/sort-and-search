@@ -2,4 +2,4 @@
 
 This repository contains, as its name inplies, sorting algorithms.
 
-Probably new cs students would enjoy take a look here. 
+Also, for each algorithm in here, I analyse their time complexity class to evaluate its performance.
