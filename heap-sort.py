@@ -1,3 +1,6 @@
+# HeapSort
+# Author: Douglas Canevarollo
+
 from random import *
 # You can better understand what's going on here accessing:
 # https://www.geeksforgeeks.org/heap-sort/
