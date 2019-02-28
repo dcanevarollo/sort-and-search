@@ -1,3 +1,6 @@
+/* CountingSort
+ * Author: Douglas Canevarollo */
+
 /* The CountSort is a linear time complexity sorting algorithm, like BucketSort. Its complexity class
  * is O(n+k), where n is the number of elements in the input array and k is range of the input (in our case, 255).
  * The idea here is similar to hash: we apply some math (O(1)) on our input array elements to define at which position
