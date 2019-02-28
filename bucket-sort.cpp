@@ -1,3 +1,6 @@
+/* CountingSort
+ * Author: Douglas Canevarollo */
+
 /* The bucket sort consists in sort the original data array with a time
  * complexity class O(n), that is, linear complexity.
  * It's possible and simple. To do so, we create n buckets to an array with n elements.
